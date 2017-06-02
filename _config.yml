@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Charles Bouttaz Blog
 locale: en_US
-description: Describe your website here.
+description: Charles Bouttaz Blog
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: https://cbouttaz.github.io/
 
 # Jekyll configuration
 
